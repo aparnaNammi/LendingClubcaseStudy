@@ -21,7 +21,14 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 
 ## Conclusions
 - Several driving factors (or driver variables) behind loan default, i.e. the variables that are strong indicators of default are identified. such as
-- 
+- Interest Rate: Higher interest rates are likely associated with higher default risks.
+- Revolving Utilization: Indicates a borrower’s credit utilization, which may signal financial stress.
+- Debt to Income Ratio: Borrowers with high DTI may be at greater risk of default.
+- Loan Amount: Larger loans could indicate higher risk
+- Grades: Lower grades (e.g., F, G) likely have higher default rates.
+- Home ownership: Renters have slightly higher default rates than those with mortgages or owned homes.
+- Verification: Loans with full verification show higher default rates, potentially reflecting higher-risk loans requiring additional scrutiny.
+- Loan Term: Longer loan terms carry substantially greater default risk.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -41,7 +48,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@aparnaNammi] - feel free to contact me!
 
 
 <!-- Optional -->
